@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
     private Button loginr;
-//  its just a check for github
+//  its just a check for github project
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
