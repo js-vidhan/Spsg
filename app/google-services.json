@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81551969868",
+    "project_id": "spsg-data-e37b4",
+    "storage_bucket": "spsg-data-e37b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81551969868:android:e8b6400073e3c6ad2f2ee9",
+        "android_client_info": {
+          "package_name": "com.example.spsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81551969868-ev60rmeng24m0a78uocmc3d6bt3h34km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoL87EWSr9tAGsor3XOQSaUbMAyXPJ50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81551969868-ev60rmeng24m0a78uocmc3d6bt3h34km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
