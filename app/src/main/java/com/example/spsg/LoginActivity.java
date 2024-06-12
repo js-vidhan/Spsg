@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
     private Button loginr;
+//  its just a check for github
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,6 +24,7 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(new Intent(LoginActivity.this, uploadActivity.class));
                 Toast.makeText(LoginActivity.this, "Welcome Back!!", Toast.LENGTH_SHORT).show();
                 finish();
+
             }
         });
     }
